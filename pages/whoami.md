@@ -11,6 +11,21 @@ Hey there! I'm **{{ site.author.name }}** 🤠, a JavaScript wizard 🧙‍♂�
 
 By day, I'm a UI Lead at Publicis Sapient, architecting scalable applications and pushing the boundaries of web development. By night, I'm a coding enthusiast who loves contributing to open-source and solving challenges on Stack Overflow and LeetCode.
 
+## 🛠 Tech Arsenal
+
+**Languages & Frameworks:**
+
+- JavaScript, TypeScript, ReactJs
+- Node.js, React Native
+- HTML5, CSS3, SCSS, Tailwind CSS
+
+**Tools & Technologies:**
+
+- Redux, Storybook, Framer Motion
+- AWS, Azure
+- Jest, Cypress, Vitest
+- Git, Jenkins, GitHub Actions
+
 ## 💼 Professional Snapshot
 
 - **Experience Engineer** at Publicis Sapient, where I:
@@ -26,26 +41,35 @@ By day, I'm a UI Lead at Publicis Sapient, architecting scalable applications an
 ## 🏆 Key Achievements
 
 - 🏅 Arctic Code Vault Contributor on GitHub
-- 🌟 Multiple awards at Publicis Sapient, including Core Values and Star of the Month
-- 🧠 AWS Certified Cloud Practitioner
 - 🏆 Qualified GATE exam twice (2020 & 2021)
 - 🥇 Gold medalist in Coding Hackathon at DIT Tech Fest 2016
 - 📚 Cracked JEE mains in 2013
 
-## 🛠 Tech Arsenal
+## 🎓 Certifications
 
-**Languages & Frameworks:**
+- **AWS Certified Cloud Practitioner**
+  <span class="badge badge-secondary">08/2023 - 08/2026</span>
+- **NFR Web Specialist L1**
+  <span class="badge badge-secondary">05/2023 - Present</span>
+- **Oracle Certified Java Professional**
+  <span class="badge badge-secondary">07/2016 - Present</span>
+- **HackerRank Problem Solving**
+  <span class="badge badge-secondary">09/2020 - Present</span>
 
-- JavaScript, TypeScript, ReactJs
-- Node.js, React Native
-- HTML5, CSS3, SCSS, Tailwind CSS
+## 🏆 Awards & Recognition
 
-**Tools & Technologies:**
+- **Core Values Award**
+  <span class="badge badge-secondary">Publicis Sapient, 10/2022</span>
+  <p class="small">Recognized for exemplifying company values and contributing to a positive work culture</p>
 
-- Redux, Storybook, Framer Motion
-- AWS, Azure
-- Jest, Cypress, Vitest
-- Git, Jenkins, GitHub Actions
+- **Star of the Month Award**
+  <span class="badge badge-secondary">Publicis Sapient, 02/2023</span>
+  <p class="small">Selected from among peers for outstanding performance and contribution</p>
+
+- **Q2 World Leading Award**
+  <span class="badge badge-secondary">Suncorp Group Ltd., 01/2023</span>
+  <p class="small">Honored for exceptional leadership and technical excellence on client projects</p>
+
 
 ## 🎭 Beyond Code
 

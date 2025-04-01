@@ -1,69 +1,70 @@
-### Site Settings ###
-title               : Manuj Sankrit
-description         : >-
-                      Part student, part athlete, part programmer - I'm not just switching roles, I'm debugging life's challenges one commit at a time. My day? A continuous sprint between learning, lifting, and launching code.
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : mandy8055/mandy8055.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+  ### Site Settings ###
+  title               : Manuj Sankrit
+  description         : >-
+                        Part student, part athlete, part programmer - I'm not just switching roles, I'm debugging life's challenges one commit at a time. My day? A continuous sprint between learning, lifting, and launching code.
+  baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+  repository          : mandy8055/mandy8055.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+  remote_theme        : YoussefRaafatNasry/portfolYOU
 
-### Plugins ###
-plugins:
-  - jemoji
-  - jekyll-feed
+  ### Plugins ###
+  plugins:
+    - jemoji
+    - jekyll-feed
 
-### Navbar Settings ###
-nav_exclude:                                            # The following paths are excluded from navbar
-  - pages/tags.html
-  - pages/404.html
-  - pages/index.md
-
-
-### Author Info ###
-author:
-  name              : Manuj Sankrit
-  image             : assets/profile.png
-  # behance           : your_username
-# dribbble          : your_username
-  email             : msankrit8055@gmail.com
-  # facebook        : manuj
-  github            : mandy8055
-# gitlab            : your_username
-# instagram         : your_username
-  linkedin          : manuj-sankrit-b82175117
-  # medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-  stackoverflow     : 19090048
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-  twitter           : mandy8055
-# vimeo             : your_username
-# youtube           : your_channel_name
+  ### Navbar Settings ###
+  nav_exclude:                                            # The following paths are excluded from navbar
+    - pages/tags.html
+    - pages/404.html
+    - pages/index.md
 
 
-### Posts ###
-permalink: /blog/:title
+  ### Author Info ###
+  author:
+    name              : Manuj Sankrit
+    image             : assets/profile.png
+    # behance           : your_username
+  # dribbble          : your_username
+    email             : msankrit8055@gmail.com
+    # facebook        : manuj
+    github            : mandy8055
+  # gitlab            : your_username
+  # instagram         : your_username
+    linkedin          : manuj-sankrit-b82175117
+    # medium            : your_username
+  # soundcloud        : your_username
+  # spotify           : your_username
+    stackoverflow     : 19090048
+  # tumblr            : your_username.tumblr.com
+  # twitch            : your_username
+  # twitter           : mandy8055
+    leetcode          : mandy8055
+  # vimeo             : your_username
+  # youtube           : your_channel_name
 
 
-### Collections ###
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name
+  ### Posts ###
+  permalink: /blog/:title
 
 
-### Defaults for collections ###
-defaults:
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "page"
+  ### Collections ###
+  collections:
+    projects:
+      output: true
+      permalink: /projects/:name
 
 
-### Exclude from processing ###
-exclude:
-  - README.md
-  - CONTRIBUTING.md
-  - LICENSE
-  - "*.log"
+  ### Defaults for collections ###
+  defaults:
+    - scope:
+        path: ""
+        type: "projects"
+      values:
+        layout: "page"
+
+
+  ### Exclude from processing ###
+  exclude:
+    - README.md
+    - CONTRIBUTING.md
+    - LICENSE
+    - "*.log"
